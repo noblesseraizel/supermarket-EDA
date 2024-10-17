@@ -4,9 +4,3 @@ Exploratory data analysis (EDA) will include:
 - identifying anomalies and outliers;
 - preparing the data for further stages of analysis.
 
-
-* Разведочный анализ (EDA) будет включать:
-
-- изучение структуры и характеристики данных: обзор размера набора данных, типов переменных, наличия пропущенных значений, дубликатов;
-- выявление аномалий и выбросов;
-- подготовка данных для дальнейших этапов анализа.
